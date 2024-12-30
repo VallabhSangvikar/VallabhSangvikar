@@ -15,7 +15,7 @@ I’m a **software developer** passionate about crafting efficient and scalable 
 - Techniques to improve query performance and scalability in **Turso**.  
 
 ## 📫 Reach Me  
-- **Email:** [vallabh.sangvikar@example.com](mailto:vallabhdsangvikar18@gmail.com)  
+- **Email:** [vallabhdsangvikar18@gmail.com](mailto:vallabhdsangvikar18@gmail.com)  
 - **LinkedIn:** [Vallabh Sangvikar](https://www.linkedin.com/in/vallabh-sangvikar)  
 - **GitHub:** [@VallabhSangvikar](https://github.com/VallabhSangvikar)  
 
