@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vallabh Sangvikar  
 
-I’m a **software developer** passionate about crafting efficient and scalable web applications using modern technologies.  
+I’m a **Student Software Developer** passionate about crafting efficient and scalable web applications using modern technologies.  
 
 ## 👀 Interests  
 - Exploring modern web frameworks like **Astro** and **React*
